@@ -21,7 +21,7 @@
 
 <h4 id="connect">三次握手(建立连接)</h4>
 
-<!-- <img src="https://img-blog.csdn.net/20180620002440131?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzM2NjI5Njk2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="600"> -->
+<img src="https://img-blog.csdn.net/20180620002440131?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzM2NjI5Njk2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="600">
 
 (1). Client -> Server: [SYN] 序号: x
 
@@ -31,7 +31,7 @@
 
 <h4 id="disconnect">四次挥手(断开连接)</h4>
 
-<!-- <img src="https://img-blog.csdn.net/20180620002506635?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzM2NjI5Njk2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="600"> -->
+<img src="https://img-blog.csdn.net/20180620002506635?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzM2NjI5Njk2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="600">
 
 (1). Client -> Server: [FIN] 序号: x
 
